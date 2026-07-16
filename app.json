@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "arrogant-blue-chips",
+    "slug": "snack-acbe6878-e19e-4892-b4f6-661f96c795d4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.hap233.snackacbe6878e19e4892b4f6661f96c795d4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3acbcbcf-2713-47f8-9e51-845b441aa03d"
+      }
+    }
+  }
+}
